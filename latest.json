@@ -1,7 +1,22 @@
 {
-  "LatestVersion": "1.0.0",
-  "Message": "Это текущая версия установщика русификатора Where Winds Meet.",
-  "DownloadUrl": "https://github.com/Ruslan734-cell/WWMRuInstaller/releases/download/v1.0.0/WWMRuInstaller.exe"
+  "translations": [
+    {
+      "id": "dlight_1_0",
+      "title": "Русификатор от Dlight v1.0",
+      "version": "1.0.0",
+      "downloadUrl": "https://github.com/Ruslan734-cell/WWMRuInstaller/releases/latest"
+    },
+    {
+      "id": "dlight_1_1",
+      "title": "Русификатор от Dlight v.1.1",
+      "version": "1.1.0",
+      "downloadUrl": "https://github.com/Ruslan734-cell/WWMRuInstaller/releases/latest"
+    },
+    {
+      "id": "dog729",
+      "title": "Русификатор от DOG729",
+      "version": "1.0.0",
+      "downloadUrl": "https://github.com/Ruslan734-cell/WWMRuInstaller/releases/latest"
+    }
+  ]
 }
-
-
