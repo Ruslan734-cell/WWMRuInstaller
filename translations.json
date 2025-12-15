@@ -1,7 +1,7 @@
 {
   "version": "1.3",
   "downloadUrl": "https://github.com/Dlightwork/WWMRuInstaller/releases/download/Update-translate/locale.rar",
-  "downloadUrlAndroid": "https://github.com/<owner>/<repo>/releases/download/v1.3.0/translation_android.zip",
+  "downloadUrlAndroid": "https://github.com/Dlightwork/WWMRuInstaller/releases/download/Android/WWM.RU.Android.zip",
   "changelog": "",
   "releaseDateUtc": "2025-12-11T18:00:00Z"
 }
